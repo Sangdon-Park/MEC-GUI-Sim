@@ -186,6 +186,7 @@ CSV 및 PNG는 `results/` 폴더에 날짜/시간 정보를 붙여 자동 저장
 다만, 외부 라이브러리(pygame, numpy, matplotlib, scipy, pandas)는 각 라이브러리의 라이선스에 따릅니다.  
 추가 문의나 공유는 언제든지 환영합니다.
 
+---
 
 ## Acknowledgement
 
